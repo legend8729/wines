@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa95a8eea9c1223746c30bc549c1e6deb2325ba56",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xd7468970e8b3fa05a42f505cc586db710444230feefe5057358dbf8c95e28008",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Metaverse Wines",
+  "SYMBOL": "MWNFT",
+  "MAX_SUPPLY": 971,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metaverse-wines",
+  "SHOW_BACKGROUND": true
+}
